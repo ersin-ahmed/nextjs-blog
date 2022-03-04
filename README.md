@@ -1,3 +1,5 @@
+TEMPORARY URL: https://nextjs-blog-33nae5yr1-ersin-ahmed.vercel.app/
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
